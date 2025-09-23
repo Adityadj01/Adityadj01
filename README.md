@@ -25,7 +25,7 @@
 ![](https://github-trophies.vercel.app/?username=Adityadj01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂Random Dev Meme
-<img src="https://programmerhumor.io/debugging-memes/the-nine-circles-of-programming-hell-udnm" width="512px"/>
+<img src="https://github.com/Adityadj01/Adityadj01/blob/main/e14df2d32a189f96bdaa088421920b13.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adityadj01&icon=0&color=0)](https://visitcount.itsvg.in)
