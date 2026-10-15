@@ -12,7 +12,7 @@
 *   🛠️ **I'm looking for help with:** scaling real-time features, containerizing deployments with Docker/Podman, and improving test coverage in TypeScript services.
 *   📚 **I'm currently learning:** AI-augmented system design, local speech processing models (like Whisper), and optimizing GPU workloads.
 *   ❓ **Ask me about:** full‑stack JavaScript (Next.js/React/Node.js), structuring small engineering teams, and database design.
-*   🎲 **Fun fact:** I love weekend hardware hacks—I recently built a prototype remote-controlled car using an ESP32 microcontroller and drone radio transmitters!
+*   🎲 **Fun fact:** I love weekend hardware hacks—I recently built a prototype remote-controlled car using an ESP32 microcontroller and a FPV drone!
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-d-j) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_adi_dj) 
