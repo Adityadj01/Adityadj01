@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-*   🚧 **I'm currently working on:** building a full-stack IT Service Management (ITSM) application using Next.js, React, and Supabase, and experimenting with local AI inference models.
+*   🚧 **I'm currently working on:** building a Open source JIRA using Next.js, React, and Supabase, and experimenting with local AI inference models.
 *   🤝 **I'm looking to collaborate on:** developer tools, full-stack web applications, and AI-augmented software architectures.
 *   🛠️ **I'm looking for help with:** scaling real-time features, containerizing deployments with Docker/Podman, and improving test coverage in TypeScript services.
 *   📚 **I'm currently learning:** AI-augmented system design, local speech processing models (like Whisper), and optimizing GPU workloads.
